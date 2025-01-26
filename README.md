@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Md. Imon Rana
 #### I'm Professional Frontend Developer.
-![I'm Professional Frontend Developer.]
 
  I am currently learning Mern stack development at Creative IT Institute. I have completed the professional web design course. 
 - 🌱 I’m currently learning MERN Stack Development. 
