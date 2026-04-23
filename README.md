@@ -6,7 +6,7 @@
     I'm Imon Rana
   </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Full+Stack+Developer;Mobile+App+(React+Native)+Expert;Shopify+%26+Wix+Specialist;UI%2FUX+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Full+Stack+Developer;Frontend+Developer+;Mern+Stack+Developer;Mobile+App+(React+Native)+Developer;Shopify+%26+Wix+Specialist;Creative UI%2FUX+Designer" alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/md-imon-rana-4047a4240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -37,18 +37,23 @@ I am a **High-Performance Full Stack Developer** with deep expertise in crafting
     <td align="center" width="200"><strong>Design & UI</strong></td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" /><br/>
       <img src="https://skillicons.dev/icons?i=nextjs,sass" />
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /><br/>
       <img src="https://skillicons.dev/icons?i=mysql,appwrite" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=shopify,wix" />
+    <td align="center" valign="top">
+      <a href="https://shopify.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="shopify" width="40" height="40"/>
+      </a>
+      <a href="https://wix.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg" alt="wix" width="40" height="40"/>
+      </a>
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
     </td>
   </tr>
