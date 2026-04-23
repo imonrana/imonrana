@@ -6,7 +6,7 @@
     I'm Imon Rana
   </h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Frontend+Developer;Backend+Developer;MERN+Stack+Developer;Creative+UI%2FUX+Designer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Professional+Full+Stack+Developer;Mobile+App+(React+Native)+Expert;Shopify+%26+Wix+Specialist;UI%2FUX+Architect" alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/md-imon-rana-4047a4240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,43 +18,45 @@
 ---
 
 ### 🚀 About Me
-I am a **Professional Frontend Developer** currently mastering the **MERN Stack** at Creative IT Institute. I specialize in crafting high-performance, visually stunning web experiences with a focus on clean code and user-centric design.
+I am a **High-Performance Full Stack Developer** with deep expertise in crafting scalable web and mobile solutions. From high-converting **Shopify/Wix** stores to complex **MERN Stack** applications and **React Native** mobile apps, I deliver professional-grade digital products.
 
-- 🔭 **Focusing on:** Advanced React.js & Backend Integration.
-- 👯 **Collaboration:** Open to high-impact projects and innovative startups.
-- ⚡ **Philosophy:** "Code is like humor. When you have to explain it, it’s bad."
-- 📧 **Reach out:** [emonranaraz@gmail.com](mailto:emonranaraz@gmail.com)
+- 📱 **Mobile Expertise:** Specialized in Cross-Platform Development with **React Native**.
+- 🛠️ **Full Stack Mastery:** Seamlessly handling both Frontend and Backend logic.
+- 🛍️ **E-commerce:** Expert in building bespoke **Shopify & Wix** ecosystems.
+- ⚡ **Commitment:** Clean architecture, optimized performance, and pixel-perfect design.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Professional Arsenal
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><strong>Frontend</strong></td>
-    <td align="center" width="200"><strong>Styling</strong></td>
-    <td align="center" width="200"><strong>State/Backend</strong></td>
-    <td align="center" width="200"><strong>Design</strong></td>
+    <td align="center" width="200"><strong>Frontend & App</strong></td>
+    <td align="center" width="200"><strong>Backend & DB</strong></td>
+    <td align="center" width="200"><strong>CMS & E-commerce</strong></td>
+    <td align="center" width="200"><strong>Design & UI</strong></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+      <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" /><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,sass" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,appwrite" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux,firebase,mongodb" />
+      <img src="https://skillicons.dev/icons?i=shopify,wix" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,ps" />
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Professional Metrics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imonrana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imonrana&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
@@ -66,9 +68,9 @@ I am a **Professional Frontend Developer** currently mastering the **MERN Stack*
 
 ---
 
-### ☁️ Tools & Hosting
+### ☁️ Tools & Workflow
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,yarn,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,yarn,netlify,vercel,postman" />
 </p>
 
 <div align="center">
