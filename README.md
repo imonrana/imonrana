@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Md.%20Imon%20Rana&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Imon%20Rana&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h1>
     <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hi.gif" width="30px"> 
